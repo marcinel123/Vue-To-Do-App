@@ -1,7 +1,14 @@
+Hey There :)
+
+This is my Vue app which can help you plan all your tasks for a day or even a month :)
+
+Application also uses localStorage so you don't have to worry if anything disappears after you close your browser.
+
+This app was made in VUE3 and vite template.
+
+Enjoy.
+
+
 # Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
