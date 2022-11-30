@@ -8,6 +8,7 @@ This app was made in VUE3 and vite template.
 
 Enjoy.
 
+https://vue-todo-app-by-ela.netlify.app/
 
 # Vue 3 + Vite
 
